@@ -1,0 +1,6 @@
+.navbar-items{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    gap: 10px;
+}
